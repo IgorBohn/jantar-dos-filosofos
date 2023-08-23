@@ -1,4 +1,6 @@
-# Jantar dos Filósofos - Simulação e Problema dos Filósofos Famintos
+# Jantar dos Filósofos
+
+Desenvolvido para a matéria de Linguagem de Programação 4.
 
 Este é um projeto que simula o clássico problema dos filósofos famintos, também conhecido como "Jantar dos Filósofos". O problema foi formulado por E.W. Dijkstra em 1965 para ilustrar os desafios de sincronização em sistemas distribuídos e a necessidade de evitar deadlocks.
 
